@@ -7,6 +7,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - I learned how to use API data to deliver real time information that any user can access. I learned about fetch and more indepth uses of functions.
 ## Installation
 To install this application, click on the link below to access it in your web browser.
+https://dylanhoryza.github.io/weather-dashboard/
 ## Usage
 The following screenshots show how this project is used. Search for any city and the weather forecast will pull up. The latest searched city will save as a button on the left hand side. You can access previously searched cities by clicking on the corresponding button.
    
