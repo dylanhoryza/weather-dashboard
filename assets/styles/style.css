@@ -1,0 +1,104 @@
+body {
+  background-color:  #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+  color: white;
+  font-family: 'Lexend', sans-serif;
+}
+
+/* styles for saved cities buttons and search button */
+.btn-city, .search-btn {
+  width: 200px;
+  height: 40px;
+  margin-top: 10px;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+  
+}
+
+.search-header {
+  font-size: 24px;
+  margin-bottom: 12px;
+}
+
+.search-btn {
+  background-color: #8BC6EC;
+  background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 4%);
+
+}
+
+.btn-city {
+  background-color: #8BC6EC;
+  background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+}
+
+.btn-city:hover, .search-btn:hover {
+  opacity: 0.8;
+  transition: 0.15s;
+}
+
+.line {
+  border-bottom: white;
+  width: 200px;
+}
+
+#search {
+  width: 200px;
+  height: 40px;
+  border-radius: 10px;
+  font-size: 18px;
+}
+
+header {
+  font-size: 40px;
+  background-color:  #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+  
+}
+
+/* styles for current city at top of page */
+#city-info {
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+  border-radius: 10px;
+  height: 300px;
+  font-size: 18px;
+  width: 900px;  
+  background-color: #8BC6EC;
+  background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+  
+}
+
+.forecast-days {
+  text-align: center;
+}
+
+#forecast {
+  width: 100%;
+}
+
+/* styles for 5 day forecast */
+.weather-info {
+  width: 200px;
+  background-color: #8BC6EC;
+  background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+  padding-bottom: 10px;
+  border-radius: 10px;
+  margin-top: 30px;
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+  
+  color: white;
+}
+
+.date {
+  
+  text-align: center;
+}
+
+.info {
+  margin-left: 15px;
+  font-size: 18px;
+}
