@@ -1,8 +1,8 @@
 # weather-dashboard
 ## Description
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-- My motivation for this project was to be able to successfully pull data from a third party API and interact with that information. I also wanted to use Bootstrap for styling and get familiar with that tool.
-- I built this project to understand the use of APIs and to expand my knowledge on JavaScript.
+- My motivation for this project was to be able to successfully pull data from a third party API and interact with that information. I also wanted to use Bootstrap for styling and familiarize myself with that tool.
+- I built this project to understand the use of APIs and to expand my knowledge of JavaScript.
 - This application solves the problem of being able to look at current weather data for any city and what the forecast will be over the next 5 days.
 - I learned how to use API data to deliver real time information that any user can access. I learned about fetch and more indepth uses of functions.
 ## Installation
